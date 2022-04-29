@@ -1,6 +1,6 @@
 ## netcore-vue2-saas-kit
 
-.NET + Vue2 SaaS template, TypeScript, Tailwind CSS, Modular persisted store, Meta-tags, i18n, Front/Admin/App pages
+.NET + Vue2 SaaS template, TypeScript, Tailwind CSS, Modular persisted store, Meta-tags, i18n, Front/Auth/Admin/App pages
 
 ![.NET + Vue2 SaaS kit](https://yahooder.sirv.com/saasfrontends/oss/dotnet-vue.png)
 
